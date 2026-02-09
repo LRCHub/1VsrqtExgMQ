@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FIGHTERS",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-02-09T19:12:47.599758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Famous Fighters (Skit)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/01_Famous_Fighters_(Skit)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Und täglich grüßen Fanta Vier / Romantic Fighters",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/02_Und_täglich_grüßen_Fanta_Vier___Romantic_Fighters_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fighters (feat. Matthew Santos)",
+      "artist": "Lupe Fiasco feat. Matthew Santos",
+      "has_synced": true,
+      "path": "select/03_Fighters_(feat._Matthew_Santos)_Lupe_Fiasco_feat._Matthew_Santos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fighters (featuring Matthew Santos)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/04_Fighters_(featuring_Matthew_Santos)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can Talk (Crystal Fighters Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/05_I_Can_Talk_(Crystal_Fighters_Remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can Talk (Crystal Fighters Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/06_I_Can_Talk_(Crystal_Fighters_Remix)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/07_Freedom_Fighters_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "0958 - Foo Fighters - Best Of You",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/08_0958_-_Foo_Fighters_-_Best_Of_You_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "The Saw Doctors",
+      "has_synced": false,
+      "path": "select/09_Freedom_Fighters_The_Saw_Doctors.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "The Music",
+      "has_synced": false,
+      "path": "select/10_Freedom_Fighters_The_Music.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "The Music",
+      "has_synced": true,
+      "path": "select/11_Freedom_Fighters_The_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "Utopia",
+      "has_synced": true,
+      "path": "select/12_Freedom_Fighters_Utopia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Freedom Fighters",
+      "artist": "Music",
+      "has_synced": true,
+      "path": "select/13_Freedom_Fighters_Music.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fighter's high",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/14_Fighter's_high_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Famous Fighters (skit)",
+      "artist": "Wu‐Tang Clan",
+      "has_synced": true,
+      "path": "select/15_Famous_Fighters_(skit)_Wu‐Tang_Clan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIGHTERS",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_FIGHTERS_Kis-My-Ft2.txt"
+    }
+  ]
+}
